@@ -2,3 +2,8 @@ h1 {
   color: blue;
   text-align: center;
 }
+
+.contact-btn {
+  color: red;
+  margin-top: 5px;
+}
